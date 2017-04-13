@@ -1,0 +1,8 @@
+form {
+	margin-top: 50px;
+}
+
+form textarea.form-control {
+	height: 150px;
+	resize: none;
+}
